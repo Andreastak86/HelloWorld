@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello Everybody");
-Console.WriteLine("Good news, everyone!");
+﻿var numberOne = 23;
+var numberTwo = 32;
+Console.WriteLine(numberOne + numberTwo);
